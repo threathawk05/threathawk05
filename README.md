@@ -17,7 +17,7 @@ Here are some of the projects I’m working on:
 - An image encryption and decryption tool.
 
 ### 💻 [Caesar Cipher Program](https://github.com/threathawk05/PRODIGY_CS_01)
-- An text encryption and decryption tool.
+- A text encryption and decryption tool.
 
 ## 📚 Learning & Growth
 
