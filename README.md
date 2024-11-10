@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a cybersecurity enthusiast and aspiring SOC An
 ## 🔧 Technologies & Tools
 
 - **Programming Languages:** Python, Bash
-- **Cybersecurity:** Kali Linux, Metasploit, Wireshark, Burp Suite
+- **Cybersecurity:** Kali Linux, Metasploit, Wireshark
 - **Tools & Platforms:** VMware, Git, Docker, GitHub Actions
 - **Skills:** Threat Intelligence, Vulnerability Assessment, Digital Forensics
 
