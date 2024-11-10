@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a cybersecurity enthusiast and aspiring SOC An
 Here are some of the projects I’m working on:
 
 ### 🔐 [Image Encryption Tool](https://github.com/threathawk05/PRODIGY_CS_02)
-- An image eccryption and decryption tool.
+- An image encryption and decryption tool.
 
 ### 💻 [Caesar Cipher Program](https://github.com/threathawk05/PRODIGY_CS_01)
 - An text encryption and decryption tool.
