@@ -13,6 +13,11 @@ Welcome to my GitHub profile! I'm a cybersecurity enthusiast and aspiring SOC An
 
 Here are some of the projects I’m working on:
 
+
+
+### 🛡🔑 [Password Generator](https://github.com/threathawk05/VAULT_TEC_SECURITY)
+- A Python tool that generates secure and customizable passwords using four different algorithms.
+
 ### 🛡️ [Password Strength Checker](https://github.com/threathawk05/PRODIGY_CS_03)
 - A tool that checks the strength of your password, and gives you feedback.
 
