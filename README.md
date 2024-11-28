@@ -15,7 +15,7 @@ Here are some of the projects I’m working on:
 
 
 
-### 🛡🔑 [Password Generator](https://github.com/threathawk05/VAULT_TEC_SECURITY)
+### 🔑 [Password Generator](https://github.com/threathawk05/VAULT_TEC_SECURITY)
 - A Python tool that generates secure and customizable passwords using four different algorithms.
 
 ### 🛡️ [Password Strength Checker](https://github.com/threathawk05/PRODIGY_CS_03)
