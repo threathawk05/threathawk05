@@ -28,6 +28,8 @@ Here are some of the projects I’m working on:
 ### 💻 [Caesar Cipher Program](https://github.com/threathawk05/PRODIGY_CS_01)
 - A text encryption and decryption tool.
 
+### 💻 [Railway Reservation Project](https://github.com/threathawk05/Railway-Reservation-Project)  
+- A Java-based application for seamless train ticket booking, cancellation, and PNR status tracking. Built with Java (Swing), MySQL, and JDBC, it ensures secure user authentication, admin control, and real-time availability checks.
 ## 📚 Learning & Growth
 
 - Currently diving deeper into SOC (Security Operations Center) operations and digital forensics.
