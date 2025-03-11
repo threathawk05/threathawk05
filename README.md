@@ -13,6 +13,10 @@ Welcome to my GitHub profile! I'm a cybersecurity enthusiast and aspiring SOC An
 
 Here are some of the projects I’m working on:
 
+### 🔐 [Secure File Storage System](https://github.com/threathawk05/Secure-File-Storage-System)
+- The Secure File Storage System is a Python-based encryption tool with a user-friendly PyQt5 GUI. It allows users to securely encrypt and decrypt files using strong cryptographic algorithms.
+
+
 ### 🖥️ [Windows Keylogger](https://github.com/threathawk05/PRODIGY_CS_04)
 - This is a simple **keylogger** application built in Python. It records keystrokes and stores them in a log file. The log file contains timestamps and the keys pressed.
 
